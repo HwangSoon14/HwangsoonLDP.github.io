@@ -209,7 +209,7 @@ body {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  margin-bottom: 50px;
+  margin-bottom: 51px;
 }
 
 .content-left, .content-right {
